@@ -1,0 +1,15 @@
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\bin\Debug\net6.0\CalculateWords.exe
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\bin\Debug\net6.0\CalculateWords.deps.json
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\bin\Debug\net6.0\CalculateWords.runtimeconfig.json
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\bin\Debug\net6.0\CalculateWords.dll
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\bin\Debug\net6.0\CalculateWords.pdb
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.csproj.AssemblyReference.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.AssemblyInfoInputs.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.AssemblyInfo.cs
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.csproj.CoreCompileInputs.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.dll
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\refint\CalculateWords.dll
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.pdb
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\CalculateWords.genruntimeconfig.cache
+C:\Users\BAYDEMIR\Desktop\benimkocumnet\CalculateWords\obj\Debug\net6.0\ref\CalculateWords.dll
